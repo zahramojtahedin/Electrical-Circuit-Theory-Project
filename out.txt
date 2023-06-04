@@ -1,0 +1,4 @@
+<v><c1><sin(t)><-cos(t)><-cos(t)*sin(t)>
+<r><r1><-10*cos(t)><-cos(t)><10*cos(t)^2>
+<c><c1><-sin(t)><-cos(t)><cos(t)*sin(t)>
+<r><r2><-10*cos(t)><-cos(t)><10*cos(t)^2>
